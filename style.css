@@ -19,22 +19,22 @@
 body {
   min-height: 100vh;
   /* background-color: aqua; */
-  background: rgb(86, 145, 224);
+  background: rgb(76, 95, 118);
   background: radial-gradient(
     circle,
-    rgba(86, 145, 224, 1) 17%,
-    rgba(0, 117, 255, 1) 73%
+    rgb(66, 80, 98) 17%,
+    rgb(48, 56, 65) 73%
   );
 }
 
 /* Main Container */
 .wrapper {
   width: 440px;
-  background: rgb(134, 223, 224);
+  background: rgb(166, 207, 208);
   background: linear-gradient(
     0deg,
-    rgba(134, 223, 224, 1) 20%,
-    rgba(79, 169, 231, 1) 74%
+    rgb(163, 202, 203) 20%,
+    rgb(182, 203, 218) 74%
   );
 
   padding: 2.5rem;
